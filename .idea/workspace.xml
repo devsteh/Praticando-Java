@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8cc3124-eefb-4461-af85-40f7a56d78f8" name="Changes" comment="Uso de tipos de variáveis e dados, comparação de strings, operadores lógicos, aritméticos e ternários">
-      <change afterPath="$PROJECT_DIR$/src/praticandojava2/ComparacaoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/praticandojava2/OperadorTernario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/praticandojava2/OperadoresAritmeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/praticandojava2/OperadoresLogicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/praticandojava3/CalculoMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/praticandojava3/MaiorMenorIdade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/praticandojava3/ParImpar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,35 +57,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OperadoresLogicos">
+  <component name="RunManager" selected="Application.praticandojava3.ParImpar">
+    <configuration name="CalculoMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praticandojava3.CalculoMedia" />
+      <module name="Praticando-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praticandojava3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ComparacaoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="praticandojava2.ComparacaoString" />
-      <module name="Praticando-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="praticandojava2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperadorTernario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojava2.OperadorTernario" />
-      <module name="Praticando-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="praticandojava2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojava2.OperadoresAritmeticos" />
       <module name="Praticando-Java" />
       <extension name="coverage">
         <pattern>
@@ -111,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteTipos3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojava1.TesteTipos3" />
+    <configuration name="ParImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praticandojava3.ParImpar" />
       <module name="Praticando-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="praticandojava1.*" />
+          <option name="PATTERN" value="praticandojava3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="praticandojava3.MaiorMenorIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praticandojava3.MaiorMenorIdade" />
+      <module name="Praticando-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praticandojava3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.praticandojava3.ParImpar" />
+        <item itemvalue="Application.praticandojava3.MaiorMenorIdade" />
+        <item itemvalue="Application.CalculoMedia" />
         <item itemvalue="Application.OperadoresLogicos" />
         <item itemvalue="Application.ComparacaoString" />
-        <item itemvalue="Application.OperadorTernario" />
-        <item itemvalue="Application.OperadoresAritmeticos" />
-        <item itemvalue="Application.TesteTipos3" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663116896036</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Uso de tipos de variáveis e dados, comparação de strings, operadores lógicos, aritméticos e ternários">
+      <created>1663117114173</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663117114173</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
