@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8cc3124-eefb-4461-af85-40f7a56d78f8" name="Changes" comment="Uso de tipos de variáveis e dados, comparação de strings, operadores lógicos, aritméticos e ternários">
-      <change afterPath="$PROJECT_DIR$/src/praticandojava3/CalculoMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/praticandojava3/MaiorMenorIdade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/praticandojava3/ParImpar.java" afterDir="false" />
+    <list default="true" id="d8cc3124-eefb-4461-af85-40f7a56d78f8" name="Changes" comment="Praticando com exemplos de par e ímpar, média e idade">
+      <change afterPath="$PROJECT_DIR$/src/condicionalencadeada/IdadeVotacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condicionalmultiplaescolha/Pernas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojava3/CalculoMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionalsimples/CalculoMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojava3/MaiorMenorIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionalsimples/MaiorMenorIdade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/praticandojava3/ParImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionalsimples/ParImpar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +59,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.praticandojava3.ParImpar">
+  <component name="RunManager" selected="Application.Pernas">
     <configuration name="CalculoMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojava3.CalculoMedia" />
+      <option name="MAIN_CLASS_NAME" value="condicionalsimples.CalculoMedia" />
       <module name="Praticando-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="praticandojava3.*" />
+          <option name="PATTERN" value="condicionalsimples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparacaoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojava2.ComparacaoString" />
+    <configuration name="IdadeVotacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condicionalencadeada.IdadeVotacao" />
       <module name="Praticando-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="praticandojava2.*" />
+          <option name="PATTERN" value="condicionalencadeada.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojava3.ParImpar" />
+    <configuration name="Pernas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condicionalmultiplaescolha.Pernas" />
       <module name="Praticando-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="praticandojava3.*" />
+          <option name="PATTERN" value="condicionalmultiplaescolha.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="praticandojava3.MaiorMenorIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojava3.MaiorMenorIdade" />
+    <configuration name="condicionalsimples.MaiorMenorIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="condicionalsimples.MaiorMenorIdade" />
       <module name="Praticando-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="praticandojava3.*" />
+          <option name="PATTERN" value="condicionalsimples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.praticandojava3.ParImpar" />
-        <item itemvalue="Application.praticandojava3.MaiorMenorIdade" />
-        <item itemvalue="Application.CalculoMedia" />
+        <item itemvalue="Application.Pernas" />
+        <item itemvalue="Application.IdadeVotacao" />
+        <item itemvalue="Application.condicionalsimples.MaiorMenorIdade" />
+        <item itemvalue="Application.condicionalsimples.CalculoMedia" />
         <item itemvalue="Application.OperadoresLogicos" />
-        <item itemvalue="Application.ComparacaoString" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663117114173</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Praticando com exemplos de par e ímpar, média e idade">
+      <created>1663125590090</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663125590090</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,7 +215,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Códigos básicos para aplicação de conceitos iniciais." />
     <MESSAGE value="Uso de tipos de variáveis e dados, comparação de strings, operadores lógicos, aritméticos e ternários" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uso de tipos de variáveis e dados, comparação de strings, operadores lógicos, aritméticos e ternários" />
+    <MESSAGE value="Praticando com exemplos de par e ímpar, média e idade" />
+    <option name="LAST_COMMIT_MESSAGE" value="Praticando com exemplos de par e ímpar, média e idade" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

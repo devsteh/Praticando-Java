@@ -1,4 +1,4 @@
-package praticandojava3;
+package condicionalsimples;
 
 import java.util.Scanner;
 

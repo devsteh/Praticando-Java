@@ -1,6 +1,5 @@
-package praticandojava3;
+package condicionalsimples;
 
-import javax.swing.*;
 import java.util.Scanner;
 
 //Cálculo de idade com estrutura condicional e entrada pelo usuário.
