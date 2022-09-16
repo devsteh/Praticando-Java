@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8cc3124-eefb-4461-af85-40f7a56d78f8" name="Changes" comment="Praticando com exemplos de par e ímpar, média e idade">
-      <change afterPath="$PROJECT_DIR$/src/condicionalencadeada/IdadeVotacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/condicionalmultiplaescolha/Pernas.java" afterDir="false" />
+    <list default="true" id="d8cc3124-eefb-4461-af85-40f7a56d78f8" name="Changes" comment="Estruturas de repetição WHILE, DO, e FOR com exemplos de contadores somando, subtraíndo e exemplos de cambalhotas (voltas no programa).">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/praticandojava3/CalculoMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionalsimples/CalculoMedia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/praticandojava3/MaiorMenorIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionalsimples/MaiorMenorIdade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/praticandojava3/ParImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionalsimples/ParImpar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +28,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="condicionais" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,13 +54,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Pernas">
-    <configuration name="CalculoMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="condicionalsimples.CalculoMedia" />
+  <component name="RunManager" selected="Application.LacosAninhados">
+    <configuration name="Contagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parafor.Contagem" />
       <module name="Praticando-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="condicionalsimples.*" />
+          <option name="PATTERN" value="parafor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IdadeVotacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="condicionalencadeada.IdadeVotacao" />
+    <configuration name="Contagem5_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parafor.Contagem5_20" />
       <module name="Praticando-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="condicionalencadeada.*" />
+          <option name="PATTERN" value="parafor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="praticandojava2.OperadoresLogicos" />
+    <configuration name="LacosAninhados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parafor.LacosAninhados" />
       <module name="Praticando-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="praticandojava2.*" />
+          <option name="PATTERN" value="parafor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pernas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="condicionalmultiplaescolha.Pernas" />
+    <configuration name="parafor.Cambalhota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parafor.Cambalhota" />
       <module name="Praticando-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="condicionalmultiplaescolha.*" />
+          <option name="PATTERN" value="parafor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="condicionalsimples.MaiorMenorIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="condicionalsimples.MaiorMenorIdade" />
+    <configuration name="parafor.Contagem0_100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parafor.Contagem0_100" />
       <module name="Praticando-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="condicionalsimples.*" />
+          <option name="PATTERN" value="parafor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pernas" />
-        <item itemvalue="Application.IdadeVotacao" />
-        <item itemvalue="Application.condicionalsimples.MaiorMenorIdade" />
-        <item itemvalue="Application.condicionalsimples.CalculoMedia" />
-        <item itemvalue="Application.OperadoresLogicos" />
+        <item itemvalue="Application.LacosAninhados" />
+        <item itemvalue="Application.Contagem" />
+        <item itemvalue="Application.Contagem5_20" />
+        <item itemvalue="Application.parafor.Contagem0_100" />
+        <item itemvalue="Application.parafor.Cambalhota" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663125590090</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Estruturas condicionais simples, composta encadeada e múltipla escolha(switch)">
+      <created>1663215105005</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663215105005</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Estruturas de repetição WHILE, DO, e FOR com exemplos de contadores somando, subtraíndo e exemplos de cambalhotas (voltas no programa).">
+      <created>1663293776218</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663293776218</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,7 +225,9 @@
     <MESSAGE value="Códigos básicos para aplicação de conceitos iniciais." />
     <MESSAGE value="Uso de tipos de variáveis e dados, comparação de strings, operadores lógicos, aritméticos e ternários" />
     <MESSAGE value="Praticando com exemplos de par e ímpar, média e idade" />
-    <option name="LAST_COMMIT_MESSAGE" value="Praticando com exemplos de par e ímpar, média e idade" />
+    <MESSAGE value="Estruturas condicionais simples, composta encadeada e múltipla escolha(switch)" />
+    <MESSAGE value="Estruturas de repetição WHILE, DO, e FOR com exemplos de contadores somando, subtraíndo e exemplos de cambalhotas (voltas no programa)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Estruturas de repetição WHILE, DO, e FOR com exemplos de contadores somando, subtraíndo e exemplos de cambalhotas (voltas no programa)." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
